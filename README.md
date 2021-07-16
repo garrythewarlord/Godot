@@ -5,5 +5,12 @@ These are half finished projects made using Godot engine, unfortunately without 
 ## Projects
 
 
-![](gif3.gif width=100)
+
+
+<img src="gif3.gif" width="150">
+
+<img src="gif4.gif" width="150">
+
+
+<img src="gif5.gif" width="150">
 
